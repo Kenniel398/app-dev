@@ -1,7 +1,7 @@
 # app-dev
 My first repository 
 
-#  My Favorite Series
+#  My Favorite Series 
 
 ## Sunshine Through the Rain 
 
